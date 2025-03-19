@@ -2,6 +2,8 @@
 
 Esse projeto consiste em um gerenciador de tarefas para web feito utilizando tecnologias como ReactJS, TailwindCSS e HTML. O projeto permite adicionar, visualizar, marcar como concluída e excluir tarefas, mantendo as alterações salvas na página.
 
+![Image](https://github.com/user-attachments/assets/e6cb6a45-e231-458b-bcb8-11c14f851e7a)
+
 # 🛠️ Tecnologias utilizadas
 
 - ReactJS ⚛
